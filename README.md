@@ -5,7 +5,9 @@ I'm Ana Paula, a passionate audiovisual translator & QCer turned aspiring softwa
 
 ### About Me
 After nearly 15 years of working in audiovisual translation (subtitling & proofreading), I've decided to pivot my career towards software development. I recently completed a Python and Django bootcamp, and I'm currently diving into two (!) Java and Spring Framework bootcamps to expand my skill set. My ultimate goal is to specialize in backend development and contribute to creating robust and scalable software solutions.
-
-<img src="https://skillicons.dev/icons?i=java,python,c,javascript,git,django,flask,sqlite,postman,mongodb," />
-
 <br clear="right"/>
+<br><br>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript,git,django,flask,sqlite,postman,mongodb," />
+</p>
+
