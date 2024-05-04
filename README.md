@@ -8,5 +8,5 @@ After years of working in audiovisual translation (subtitling & proofreading), I
 <br clear="right"/>
 <br>
 <br><p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,javascript,git,django,flask,sqlite,postman,mongodb," />
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript,git,github,django,flask,sqlite,vscode,postman,mongodb,bootstrap,markdown" />
 </p>
