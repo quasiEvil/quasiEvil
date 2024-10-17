@@ -4,7 +4,9 @@
 I'm Ana Paula, a passionate audiovisual translator & QCer turned aspiring software developer. Welcome to my GitHub profile, where I document my journey into the world of coding and backend development. 😊
 
 ### About *this moi*
-After years of working in audiovisual translation (subtitling & proofreading), I've decided to pivot my career towards software development. I recently completed a Python and Django bootcamp, and I'm currently diving into two (!) Java and Spring Framework bootcamps to expand my skill set. My ultimate goal is to specialize in backend development and contribute to creating robust and scalable software solutions. Feel free to reach out if you'd like to collaborate or just chat about tech and coding adventures!
+After years of working in audiovisual translation (subtitling & proofreading), I've decided to pivot my career towards software development. I recently completed a Python and Django bootcamp, and my ultimate goal is to specialize in backend development, contributing to robust and scalable software solutions.
+
+Feel free to reach out if you're interested in collaborating or just want to chat about tech and coding adventures!
 <br clear="right"/>
 <br>
 <br><p align="center">
